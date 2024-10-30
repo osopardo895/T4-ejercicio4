@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.fragment.app.FragmentContainerView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragmentContainerView"
+    android:name="dam.moviles.proyecto4_ejer4.Ejercicio4Fragment"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:layout_editor_absoluteX="115dp"
+    tools:layout_editor_absoluteY="224dp" />
